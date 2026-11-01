@@ -178,3 +178,5 @@ This project demonstrates an end-to-end machine learning classification workflow
 It explores different classification algorithms, sampling strategies, evaluation metrics, and hyperparameter optimization techniques to understand their impact on model performance.
 
 The final model is selected based on its ability to identify high-risk customers while minimizing false negatives, helping support early risk detection in digital banking.
+
+**Explanation Video:** https://drive.google.com/file/d/1mre9Oo3e1YEh4KX2OzpM89xYxN60mYU2/view?usp=drive_link
